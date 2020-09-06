@@ -36,7 +36,7 @@ Alexey Pronin ([@vulnbe](https://twitter.com/vulnbe))
 
 ## References
 
-* [Vulnerability analysis](https://vuln.be/post/yaws-xxe/)
+* [Vulnerability analysis](https://vuln.be/post/yaws-xxe-and-shell-injections/)
 * [Yaws on github](https://github.com/erlyaws/yaws)
 * [CVE-2020-24379](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-24379)
 * [CWE-611: Improper Restriction of XML External Entity Reference](https://cwe.mitre.org/data/definitions/611.html)
